@@ -1,1 +1,1 @@
-# Interactive-Visual-Analytics
+# Exploratory-Data-Analysis
